@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MyQuranApp</string>
+    <string name="fab">FAB</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="img_indicator">img_indicator</string>
+    <string name="daftar_surah">Daftar Surah</string>
+    <string name="fab_quran">fab_quran</string>
+    <string name="bg_circle">bg_circle</string>
+    <string name="img_search">img_search</string>
+    <string name="img_quran">img_quran</string>
+    <string name="assalamualaikum">Assalamualaikum</string>
+    <string name="tpa_bangun_ummah">TPA Bangun Ummah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
